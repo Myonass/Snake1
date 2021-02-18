@@ -1,0 +1,13 @@
+E:\Project\Snake1\Snake1\Snake1\bin\Debug\netcoreapp3.1\Snake1.exe
+E:\Project\Snake1\Snake1\Snake1\bin\Debug\netcoreapp3.1\Snake1.deps.json
+E:\Project\Snake1\Snake1\Snake1\bin\Debug\netcoreapp3.1\Snake1.runtimeconfig.json
+E:\Project\Snake1\Snake1\Snake1\bin\Debug\netcoreapp3.1\Snake1.runtimeconfig.dev.json
+E:\Project\Snake1\Snake1\Snake1\bin\Debug\netcoreapp3.1\Snake1.dll
+E:\Project\Snake1\Snake1\Snake1\bin\Debug\netcoreapp3.1\Snake1.pdb
+E:\Project\Snake1\Snake1\Snake1\obj\Debug\netcoreapp3.1\Snake1.csprojAssemblyReference.cache
+E:\Project\Snake1\Snake1\Snake1\obj\Debug\netcoreapp3.1\Snake1.AssemblyInfoInputs.cache
+E:\Project\Snake1\Snake1\Snake1\obj\Debug\netcoreapp3.1\Snake1.AssemblyInfo.cs
+E:\Project\Snake1\Snake1\Snake1\obj\Debug\netcoreapp3.1\Snake1.csproj.CoreCompileInputs.cache
+E:\Project\Snake1\Snake1\Snake1\obj\Debug\netcoreapp3.1\Snake1.dll
+E:\Project\Snake1\Snake1\Snake1\obj\Debug\netcoreapp3.1\Snake1.pdb
+E:\Project\Snake1\Snake1\Snake1\obj\Debug\netcoreapp3.1\Snake1.genruntimeconfig.cache
