@@ -18,11 +18,11 @@ namespace Snake1
                 pList.Add(p);
             }
         }
-
-        
+           
     }
 
 }
+
 
 
     
