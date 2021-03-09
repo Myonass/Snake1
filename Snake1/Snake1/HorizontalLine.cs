@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Snake1
 {
-    class HorizontalLine
+    class HorizontalLine : Figure
     {
-        List<Point> pList;
+        
 
         public HorizontalLine(int xLeft, int xReight, int y, char sym)
         {
@@ -21,12 +21,6 @@ namespace Snake1
         }
 
 
-        public void Draw()
-        {
-            foreach(Point p in pList)
-            {
-                p.Draw();
-            }    
-        }
+        
     }
 }

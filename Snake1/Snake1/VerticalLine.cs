@@ -5,9 +5,9 @@ using System.Text;
 namespace Snake1
 {
 
-    class VerticalLine
+    class VerticalLine : Figure
     {
-        List<Point> pList;
+        
 
         public VerticalLine(int yTop, int yBottom, int x, char symb)
         {
@@ -19,13 +19,7 @@ namespace Snake1
             }
         }
 
-        public void Draw()
-        {
-            foreach (Point p in pList)
-            {
-                p.Draw();
-            }
-        }
+        
     }
 
 }
